@@ -7,10 +7,10 @@ Email : leejisun1209@naver.com
 ## SNS list
 <a href="https://www.instagram.com/Jidonee/">
     <img 
-        src="http://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/Jidonee/"
+        src="http://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/Jidonee/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=appveyor&logo=Instagram&logoColor=white"/></a>
+
 
 ## Teach Stack
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
