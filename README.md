@@ -5,7 +5,7 @@ Name : 이지선
 Email : leejisun1209@naver.com
 
 ## SNS list
-<img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
