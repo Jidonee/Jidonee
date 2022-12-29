@@ -7,13 +7,13 @@ Email : leejisun1209@naver.com
 ## SNS list
 <a href="https://www.instagram.com/Jidonee/">
     <img 
-        src="http://img.shields.io/badge/Instagram-fffff0?style=flat&logo=Instagram&link=https://www.instagram.com/Jidonee/"
+        src="http://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/Jidonee/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="https://blog.naver.com/leejisun1209">
     <img 
-        src="http://img.shields.io/badge/naver-green?style=flat&logo=Blog&link=https://www.blog.naver.com/leejisun1209/"
+        src="http://img.shields.io/badge/naver-#03C75A?style=flat&logo=Blog&link=https://www.blog.naver.com/leejisun1209/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
