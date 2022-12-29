@@ -13,7 +13,7 @@ Email : leejisun1209@naver.com
 
 <a href="https://blog.naver.com/leejisun1209">
     <img 
-        src="http://img.shields.io/badge/naver-#03C75A?style=flat&logo=Blog&link=https://www.blog.naver.com/leejisun1209/"
+        src="http://img.shields.io/badge/naver-03C75A?style=flat&logo=Blog&link=https://www.blog.naver.com/leejisun1209/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
