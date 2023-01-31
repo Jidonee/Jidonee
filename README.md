@@ -6,6 +6,7 @@
 ## Profile
 Name : 이지선
 Email : leejisun1209@naver.com
+Phone Number : SECRET
 
 ## SNS list
 <a href="https://www.instagram.com/Jidonee/">
